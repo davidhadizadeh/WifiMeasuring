@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WifiMeasuring</string>
+
+    <string name="measuring">measuring data</string>
+</resources>
